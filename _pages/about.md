@@ -4,8 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
+This is a website for the 1st trimester of AP Computer Science Principles, created for Arnav Kanekar.
 
+Things I like to do:
+-  Sleep
+-  Eat
+-  Run
+-  Watch TV
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My goals for the class.
+I hope to learn about coding and using it for automating tasks.
+
